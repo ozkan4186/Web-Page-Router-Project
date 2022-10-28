@@ -3,7 +3,7 @@ import html from "../assets/img/logo_html.png";
 
 const HTML = () => {
   return (
-    <div className="card">
+    <div  className="card">
       <img src={html} alt="" />
       <h3>HTML5 Markup</h3>
       <p>
